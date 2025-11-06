@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/Bert0ni/test-poc/refs/heads/main/xss.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/Bert0ni/test-poc/refs/heads/main/xss.yaml",
+            "name": "Foo"
+        }
+    ]
+}
